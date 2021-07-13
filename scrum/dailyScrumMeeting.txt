@@ -1,0 +1,93 @@
+# Fill in, commit and push each day.
+# Group Member: FILL THIS IN
+
+Nov 20, 2019
+	Yesterday : Studied for exam 
+	Today     : Looked at BUG3.0 I really didnt do anything 
+	Obstacles : No Obstacles because i am not working on the assignment today 
+
+Nov 21, 2019
+	Yesterday : Looked at BUG3.0 I really didnt do anything 
+	Today     : Finished BUG3.0 and US3.1
+	Obstacles : I don't understand the Polylines and shapes and I'm not very comfortable with the command design pattern
+
+Nov 22, 2019
+	Yesterday : Finished BUG3.0 and US3.1
+	Today     :	Began working on CSC290 blog and finished up on CSC236
+	Obstacles : As the year winds down the level of work and assignmentes increase
+	
+Nov 23, 2019
+	Yesterday :	worked on CSC290 blog and finished up on CSC236
+	Today     : Finished off CSC290 blog as well as finished CSC236 quiz and labs
+	Obstacles : regexes is probably one of the most frustrating concepts ive ever seen 
+
+Nov 24, 2019
+	Yesterday : Finished off CSC290 blog as well as finished CSC236 quiz and labs
+	Today     :	Ill most of the day, but completed ENV100 assignment
+	Obstacles : Its very hard to do work fighting a migrane and snot rolling out of your nose 
+
+Nov 25, 2019
+	Yesterday : Ill most of the day, but completed ENV100 assignment
+	Today     :	Ill most of today, but finish US3.2
+	Obstacles : Still ill so i have very short spells on the computer because the screen makes me a little dizzy
+
+Nov 26, 2019
+	Yesterday : Ill most of today, but finish US3.2
+	Today     : Ill today didn't do much, going to the hospital 
+	Obstacles : Getting better 
+	
+Nov 27, 2019
+	Yesterday : Ill today didn't do much, going to the hospital 
+	Today     : Getting some rest today 
+	Obstacles : Feeling better after the hospital visit 
+	
+Nov 28, 2019
+	Yesterday : Got some rest for the day
+	Today     : Started and finished CSC290 blog 
+	Obstacles : Writing the blog on an article 
+	
+Nov 29, 2019
+	Yesterday : Started and finished CSC290 blog 
+	Today     : Finished off csc290 repository for assignment 
+	Obstacles : changing commit messages for the repo
+
+Nov 30, 2019
+	Yesterday : Finished off csc290 repository for assignment 
+	Today     : Study for ENV100 midterm
+	Obstacles : Haven't looked at a lecture all year, this will be  hard 
+
+Dec 1, 2019
+	Yesterday : Studied for ENV100 midterm
+	Today     : Study for ENV100 midterm
+	Obstacles : Haven't looked at a lecture all year, this will be  hard 
+	
+Dec 2, 2019
+	Yesterday : Studied for ENV100 midterm
+	Today     : Study for ENV100 midterm
+	Obstacles : Haven't looked at a lecture all year, this will be  hard 
+ 
+Dec 3, 2019
+	Yesterday : Studied for ENV100 midterm
+	Today     : Finish US3.3 and floating point questions
+	Obstacles : the regex will be the hardest part of this us
+
+Dec 4, 2019
+	Yesterday : Finish US3.3
+	Today     : Edit 270 assignment and push, ENV100 midterm today 
+	Obstacles : Dealing with test nerves 
+	
+Dec 5, 2019
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Dec 6, 2019
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+Dec 7, 2019
+	Yesterday :
+	Today     :
+	Obstacles :
+	
